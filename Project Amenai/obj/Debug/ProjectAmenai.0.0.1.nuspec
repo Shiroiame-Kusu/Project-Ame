@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ProjectAmenai</id>
+    <version>0.0.1</version>
+    <authors>Shiroiame Kusu</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0">
+        <dependency id="DynamicDataDisplay" version="0.3.0.1" exclude="Build,Analyzers" />
+        <dependency id="Lierda.WPFHelper" version="1.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App" />
+      </group>
+    </frameworkReferences>
+    <contentFiles>
+      <files include="any/net6.0-windows7.0/assets/background.jpg" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/assets/closewhite.png" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/assets/icon.jpg" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="D:\repos\Project Amenai\Project Amenai\bin\Debug\net6.0-windows\Project Amenai.runtimeconfig.json" target="lib\net6.0-windows7.0\Project Amenai.runtimeconfig.json" />
+    <file src="D:\repos\Project Amenai\Project Amenai\bin\Debug\net6.0-windows\Project Amenai.dll" target="lib\net6.0-windows7.0\Project Amenai.dll" />
+    <file src="D:\repos\Project Amenai\Project Amenai\assets\background.jpg" target="content\assets\background.jpg" />
+    <file src="D:\repos\Project Amenai\Project Amenai\assets\background.jpg" target="contentFiles\any\net6.0-windows7.0\assets\background.jpg" />
+    <file src="D:\repos\Project Amenai\Project Amenai\assets\closewhite.png" target="content\assets\closewhite.png" />
+    <file src="D:\repos\Project Amenai\Project Amenai\assets\closewhite.png" target="contentFiles\any\net6.0-windows7.0\assets\closewhite.png" />
+    <file src="D:\repos\Project Amenai\Project Amenai\assets\icon.jpg" target="content\assets\icon.jpg" />
+    <file src="D:\repos\Project Amenai\Project Amenai\assets\icon.jpg" target="contentFiles\any\net6.0-windows7.0\assets\icon.jpg" />
+  </files>
+</package>

@@ -1,0 +1,20 @@
+﻿Project Amenai
+0.0.1.0
+
+winexe
+C#
+.cs
+D:\repos\Project Amenai\Project Amenai\obj\Debug\net6.0-windows\
+Project_Amenai
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+D:\repos\Project Amenai\Project Amenai\App.xaml
+61926760545
+4-1340009971
+10-987865667
+205-1762766629
+MainWindow.xaml;Pages\Intro.xaml;Pages\ServerDownload.xaml;Pages\ServerSettings.xaml;Pages\ServerStatus.xaml;Pages\Settings.xaml;
+
+False
+

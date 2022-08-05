@@ -1,0 +1,43 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DynamicDataDisplay/0.3.0.1": {
+        "runtime": {
+          "lib/net45/DynamicDataDisplay.dll": {
+            "assemblyVersion": "0.3.0.1",
+            "fileVersion": "0.3.0.1"
+          }
+        }
+      },
+      "Lierda.WPFHelper/1.0.3": {
+        "runtime": {
+          "lib/net461/Lierda.WPFHelper.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DynamicDataDisplay/0.3.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AcnPV2TrryL1qlb2YlgNaFa71QQGEImMpKUD5eOX8Rz0e1XKlaRr/kvPrOYKLd+L8j6EXw8MCc2Nd/e1I0j2eg==",
+      "path": "dynamicdatadisplay/0.3.0.1",
+      "hashPath": "dynamicdatadisplay.0.3.0.1.nupkg.sha512"
+    },
+    "Lierda.WPFHelper/1.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PxStWIDbarwL4ZVfPEhp/14rN8mykxrFcwBzf110+Vsc4ypH3V7TFiBZcARA+vtmnnHaD6zCkoca42wO0zZrXQ==",
+      "path": "lierda.wpfhelper/1.0.3",
+      "hashPath": "lierda.wpfhelper.1.0.3.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+D:\repos\Project Amenai\Project Amenai\obj\Debug\net6.0-windows\Project Amenai.csproj.AssemblyReference.cache
+D:\repos\Project Amenai\Project Amenai\obj\Debug\net6.0-windows\App.g.cs
+D:\repos\Project Amenai\Project Amenai\obj\Debug\net6.0-windows\Project Amenai_MarkupCompile.cache
+D:\repos\Project Amenai\Project Amenai\bin\Debug\net6.0-windows\Project Amenai.exe
+D:\repos\Project Amenai\Project Amenai\bin\Debug\net6.0-windows\Project Amenai.deps.json
+D:\repos\Project Amenai\Project Amenai\bin\Debug\net6.0-windows\Project Amenai.runtimeconfig.json
+D:\repos\Project Amenai\Project Amenai\bin\Debug\net6.0-windows\Project Amenai.dll
+D:\repos\Project Amenai\Project Amenai\bin\Debug\net6.0-windows\Project Amenai.pdb
+D:\repos\Project Amenai\Project Amenai\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\repos\Project Amenai\Project Amenai\obj\Debug\net6.0-windows\Project Amenai_MarkupCompile.lref
+D:\repos\Project Amenai\Project Amenai\obj\Debug\net6.0-windows\MainWindow.baml
+D:\repos\Project Amenai\Project Amenai\obj\Debug\net6.0-windows\Project Amenai.g.resources
+D:\repos\Project Amenai\Project Amenai\obj\Debug\net6.0-windows\Project Amenai.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Project Amenai\Project Amenai\obj\Debug\net6.0-windows\Project Amenai.AssemblyInfoInputs.cache
+D:\repos\Project Amenai\Project Amenai\obj\Debug\net6.0-windows\Project Amenai.AssemblyInfo.cs
+D:\repos\Project Amenai\Project Amenai\obj\Debug\net6.0-windows\Project Amenai.csproj.CoreCompileInputs.cache
+D:\repos\Project Amenai\Project Amenai\obj\Debug\net6.0-windows\Project Amenai.dll
+D:\repos\Project Amenai\Project Amenai\obj\Debug\net6.0-windows\refint\Project Amenai.dll
+D:\repos\Project Amenai\Project Amenai\obj\Debug\net6.0-windows\Project Amenai.pdb
+D:\repos\Project Amenai\Project Amenai\obj\Debug\net6.0-windows\Project Amenai.genruntimeconfig.cache
+D:\repos\Project Amenai\Project Amenai\obj\Debug\net6.0-windows\ref\Project Amenai.dll
+D:\repos\Project Amenai\Project Amenai\obj\Debug\net6.0-windows\Pages\Intro.g.cs
+D:\repos\Project Amenai\Project Amenai\obj\Debug\net6.0-windows\Pages\Intro.baml
+D:\repos\Project Amenai\Project Amenai\obj\Debug\net6.0-windows\Project Amenai_Content.g.cs
+D:\repos\Project Amenai\Project Amenai\bin\Debug\net6.0-windows\Lierda.WPFHelper.dll
+D:\repos\Project Amenai\Project Amenai\obj\Debug\net6.0-windows\Project Amenai.csproj.CopyComplete
+D:\repos\Project Amenai\Project Amenai\obj\Debug\net6.0-windows\Pages\ServerDownload.g.cs
+D:\repos\Project Amenai\Project Amenai\obj\Debug\net6.0-windows\Pages\ServerSettings.g.cs
+D:\repos\Project Amenai\Project Amenai\obj\Debug\net6.0-windows\Pages\Settings.g.cs
+D:\repos\Project Amenai\Project Amenai\obj\Debug\net6.0-windows\Pages\ServerDownload.baml
+D:\repos\Project Amenai\Project Amenai\obj\Debug\net6.0-windows\Pages\ServerSettings.baml
+D:\repos\Project Amenai\Project Amenai\obj\Debug\net6.0-windows\Pages\Settings.baml
+D:\repos\Project Amenai\Project Amenai\bin\Debug\net6.0-windows\assets\icon.jpg
+D:\repos\Project Amenai\Project Amenai\bin\Debug\net6.0-windows\DynamicDataDisplay.dll
+D:\repos\Project Amenai\Project Amenai\obj\Debug\net6.0-windows\Pages\ServerStatus.g.cs
+D:\repos\Project Amenai\Project Amenai\obj\Debug\net6.0-windows\Pages\ServerStatus.baml
+D:\repos\Project Amenai\Project Amenai\bin\Debug\net6.0-windows\assets\background.jpg
+D:\repos\Project Amenai\Project Amenai\bin\Debug\net6.0-windows\assets\closewhite.png
+D:\repos\Project Amenai\Project Amenai\bin\Debug\net6.0-windows\assets\hyphen2.png

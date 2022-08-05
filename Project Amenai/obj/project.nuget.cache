@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "0gOOgEJMF6rMKnQGauZzdb71zQZHTIpqmTSZ5MqKdXH3bdxd1gZ/A1AoR1/WVStzq/m3rr++lza077gdZgPs7w==",
+  "success": true,
+  "projectFilePath": "D:\\repos\\Project Amenai\\Project Amenai\\Project Amenai.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Apple\\.nuget\\packages\\dynamicdatadisplay\\0.3.0.1\\dynamicdatadisplay.0.3.0.1.nupkg.sha512",
+    "C:\\Users\\Apple\\.nuget\\packages\\lierda.wpfhelper\\1.0.3\\lierda.wpfhelper.1.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用“.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8”而不是项目目标框架“net6.0-windows7.0”还原包“DynamicDataDisplay 0.3.0.1”。此包可能与项目不完全兼容。",
+      "libraryId": "DynamicDataDisplay",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用“.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8”而不是项目目标框架“net6.0-windows7.0”还原包“Lierda.WPFHelper 1.0.3”。此包可能与项目不完全兼容。",
+      "libraryId": "Lierda.WPFHelper",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}

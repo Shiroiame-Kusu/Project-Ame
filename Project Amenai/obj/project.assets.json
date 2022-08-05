@@ -1,0 +1,167 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "DynamicDataDisplay/0.3.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net45/DynamicDataDisplay.dll": {}
+        },
+        "runtime": {
+          "lib/net45/DynamicDataDisplay.dll": {}
+        }
+      },
+      "Lierda.WPFHelper/1.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net461/Lierda.WPFHelper.dll": {}
+        },
+        "runtime": {
+          "lib/net461/Lierda.WPFHelper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DynamicDataDisplay/0.3.0.1": {
+      "sha512": "AcnPV2TrryL1qlb2YlgNaFa71QQGEImMpKUD5eOX8Rz0e1XKlaRr/kvPrOYKLd+L8j6EXw8MCc2Nd/e1I0j2eg==",
+      "type": "package",
+      "path": "dynamicdatadisplay/0.3.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "dynamicdatadisplay.0.3.0.1.nupkg.sha512",
+        "dynamicdatadisplay.nuspec",
+        "lib/net45/DynamicDataDisplay.dll"
+      ]
+    },
+    "Lierda.WPFHelper/1.0.3": {
+      "sha512": "PxStWIDbarwL4ZVfPEhp/14rN8mykxrFcwBzf110+Vsc4ypH3V7TFiBZcARA+vtmnnHaD6zCkoca42wO0zZrXQ==",
+      "type": "package",
+      "path": "lierda.wpfhelper/1.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/Lierda.WPFHelper.dll",
+        "lib/net40/Lierda.WPFHelper.xml",
+        "lib/net45/Lierda.WPFHelper.dll",
+        "lib/net45/Lierda.WPFHelper.xml",
+        "lib/net451/Lierda.WPFHelper.dll",
+        "lib/net451/Lierda.WPFHelper.xml",
+        "lib/net452/Lierda.WPFHelper.dll",
+        "lib/net452/Lierda.WPFHelper.xml",
+        "lib/net46/Lierda.WPFHelper.dll",
+        "lib/net46/Lierda.WPFHelper.xml",
+        "lib/net461/Lierda.WPFHelper.dll",
+        "lib/net461/Lierda.WPFHelper.xml",
+        "lib/net462/Lierda.WPFHelper.dll",
+        "lib/net462/Lierda.WPFHelper.xml",
+        "lierda.wpfhelper.1.0.3.nupkg.sha512",
+        "lierda.wpfhelper.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "DynamicDataDisplay >= 0.3.0.1",
+      "Lierda.WPFHelper >= 1.0.3"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Apple\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "0.0.1",
+    "restore": {
+      "projectUniqueName": "D:\\repos\\Project Amenai\\Project Amenai\\Project Amenai.csproj",
+      "projectName": "ProjectAmenai",
+      "projectPath": "D:\\repos\\Project Amenai\\Project Amenai\\Project Amenai.csproj",
+      "packagesPath": "C:\\Users\\Apple\\.nuget\\packages\\",
+      "outputPath": "D:\\repos\\Project Amenai\\Project Amenai\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Apple\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "dependencies": {
+          "DynamicDataDisplay": {
+            "target": "Package",
+            "version": "[0.3.0.1, )"
+          },
+          "Lierda.WPFHelper": {
+            "target": "Package",
+            "version": "[1.0.3, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用“.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8”而不是项目目标框架“net6.0-windows7.0”还原包“DynamicDataDisplay 0.3.0.1”。此包可能与项目不完全兼容。",
+      "libraryId": "DynamicDataDisplay",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用“.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8”而不是项目目标框架“net6.0-windows7.0”还原包“Lierda.WPFHelper 1.0.3”。此包可能与项目不完全兼容。",
+      "libraryId": "Lierda.WPFHelper",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
